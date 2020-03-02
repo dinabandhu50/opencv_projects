@@ -1,6 +1,5 @@
 import cv2
 
-
 # Reading video
 cap = cv2.VideoCapture('../data/seniorita.mp4')
 
