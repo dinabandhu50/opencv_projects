@@ -1,0 +1,9 @@
+name: cv2
+channels:
+    - defaults
+dependencies:
+    - nb_conda
+    - cpuonly
+    - pytorch
+    - torchvision
+prefix: /home/db/anaconda3/envs/cv2
